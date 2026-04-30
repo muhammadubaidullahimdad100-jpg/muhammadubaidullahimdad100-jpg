@@ -1,16 +1,6 @@
-<h1 align="center">Hey, what's up?</h1>
+<h1 align="center">Hey 👋 what's up? My name is Muhammad UbaidUllah</h1>
+<h1 align="center">Follow Me on LinkedIn and Github</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-</div>
 
 ###
 
@@ -25,9 +15,18 @@
   </a>
 
 </div>
+<h1 align="center">I have Skills in : </h1>
 
-###
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+</div>
+<h1 align="center">My Information : </h1>
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=muhammadubaidullahimdad100-jpg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=muhammadubaidullahimdad100-jpg&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
