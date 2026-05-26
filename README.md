@@ -42,8 +42,7 @@ Philosophy  : "Never Give UP!👊."
 </div>
 
 --- 
-## MySkills
-<h1 align="center">I have Skills in : </h1>
+## 🖥️ MySkills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
@@ -53,6 +52,7 @@ Philosophy  : "Never Give UP!👊."
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 <h1 align="center">My Information : </h1>
 <div align="center">
