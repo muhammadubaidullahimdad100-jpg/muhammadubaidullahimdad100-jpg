@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="800" height="160" fill="url(#bg)" rx="12"/>
-  <text x="400" y="75" font-family="monospace" font-size="42" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Muhammad UbaidUllah</text>
-  <text x="400" y="115" font-family="monospace" font-size="16" fill="#FFFFFF" text-anchor="middle">BE CIS Student At NEDUET . Karachi, Pakistan</text>
-  <text x="400" y="145" font-family="monospace" font-size="13" fill="#FFFFFF" text-anchor="middle">C/C++ OOPS HTML CSS CyberSecurity</text>
+  <text x="400" y="75" font-family="monospace" font-size="42" font-weight="bold" fill="#A78BFA" text-anchor="middle">Muhammad UbaidUllah</text>
+  <text x="400" y="115" font-family="monospace" font-size="16" fill="#7C3AED" text-anchor="middle">BE CIS Student at NEDUET Karachi, Pakistan .</text>
+  <text x="400" y="145" font-family="monospace" font-size="13" fill="#6d28d9" text-anchor="middle">C/C++ OOPS HTML CSS CyberSecurity</text>
 </svg>
