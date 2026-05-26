@@ -1,5 +1,4 @@
 name: Generate pacman animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -12,15 +11,17 @@ jobs:
   generate:
     permissions:
       contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          background_color: "#0d0d0d"
+          dot_color: "#6d28d9"
+          dot_color_empty: "#1a0a2e"
+          pacman_color: "#A78BFA"
 
       - name: Push pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
