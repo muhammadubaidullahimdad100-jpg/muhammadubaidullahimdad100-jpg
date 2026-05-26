@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%" alt="Muhammad UbaidUllah"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Protecting+From+CyberAttacks%2C;Towards+Destination;Always+learning.+Always+Growing." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Protecting+From+CyberAttacks%2C;Towards+Destination;Always+learning.+Always+Growing." alt="Typing SVG"/>
 
 </div>
 
