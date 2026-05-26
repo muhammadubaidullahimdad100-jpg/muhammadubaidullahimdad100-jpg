@@ -40,6 +40,9 @@ Philosophy  : "Never Give UP!👊."
   </a>
 
 </div>
+
+--- 
+## MySkills
 <h1 align="center">I have Skills in : </h1>
 
 <div align="center">
