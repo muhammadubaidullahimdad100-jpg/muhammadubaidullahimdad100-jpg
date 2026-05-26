@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Muhammad Hasan"/>
+<img src="./header.svg" width="100%" alt="Muhammad UbaidUllah"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+pixel+at+a+time.;Turning+ideas+into+real+products.;Always+learning.+Always+shipping." alt="Typing SVG"/>
 
