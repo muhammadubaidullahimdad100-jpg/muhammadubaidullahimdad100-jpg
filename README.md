@@ -8,7 +8,24 @@
 
 ---
 
+## 🧠 About Me
 
+```yaml
+Name        : Muhammad UbaidUllah
+Location    : Karachi, Pakistan
+University  : NED University of Engineering & Technology
+Degree      : Bachelor of Engineering In Computer & Information Systems Engineering
+
+Currently:
+  - Studying OOPS,C/C++
+  - CyberSecurity 
+  - Linux,
+  - Exploring AI, Cybersecurity & Emerging Tech
+
+Philosophy  : "Never Give UP!👊."
+```
+
+---
 <h1 align="center">Hey 👋 what's up? My name is Muhammad UbaidUllah</h1>
 <h1 align="center">Follow Me on LinkedIn and Github</h1>
 
