@@ -25,10 +25,7 @@ Currently:
 Philosophy  : "Never Give UP!👊."
 ```
 
----
-<h1 align="center">Hey 👋 what's up? My name is Muhammad UbaidUllah</h1>
-<h1 align="center">Follow Me on LinkedIn and Github</h1>
-
+## 🌐 Connect Me
 
 ###
 
