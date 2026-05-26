@@ -25,7 +25,7 @@ Currently:
 Philosophy  : "Never Give UP!👊."
 ```
 
-## 🌐 Connect Me
+## 🌐 Connect Me On
 
 ###
 
