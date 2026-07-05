@@ -90,19 +90,16 @@ Philosophy  : "Never Give Up."
 </div>
 
 ---
-
 ## GitHub Trophies
 
 <div align="center">
 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=muhammadubaidullahimdad100-jpg&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
-    height="150" 
+    src="https://github-profile-trophy.vercel.app/?username=muhammadubaidullahimdad100-jpg&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" 
     alt="GitHub trophy graph" 
   />
 
 </div>
-
 ---
 
 ## Contribution Graph
