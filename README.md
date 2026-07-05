@@ -95,7 +95,7 @@ Philosophy  : "Never Give Up."
 <div align="center">
 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=muhammadubaidullahimdad100-jpg&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" 
+    src="https://github-profile-trophy.vercel.app/?username=muhammadubaidullahimdad100-jpg&theme=onedark" 
     alt="GitHub trophy graph" 
   />
 
