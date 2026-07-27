@@ -22,12 +22,12 @@ Currently:
   - Exploring Linux
   - Exploring AI, Cybersecurity, and Emerging Tech
 
-Philosophy  : "Never Give Up."
+Philosophy  : "Never Give Up.👊"
 ```
 
 ---
 
-## Connect With Me
+## Connect With Me 🤝
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Philosophy  : "Never Give Up."
 
 ---
 
-## My Skills
+## My Skills 🛠
 
 <div align="center">
 
