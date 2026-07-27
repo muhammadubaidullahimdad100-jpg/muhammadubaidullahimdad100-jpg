@@ -70,7 +70,17 @@ Philosophy  : "Never Give Up.👊"
 </div>
 
 ---
+## 🚀 Projects
 
+| # | Project | Tech Stack | Category | Link |
+|---|---------|------------|----------|------|
+| 1 | 🚂 Railway Management System | C | Systems / Console App | [GitHub](https://github.com/ubaid100/Railway-Management-System-in-C) |
+| 2 | 📚 Library Management System | C++, React.js, TypeScript, Node.js, Tailwind CSS | Full Stack | [GitHub](https://github.com/ubaid100/Library-Management-System) |
+| 3 | 🏦 Banking Management System | C++ | OOP / Console App | [GitHub](https://github.com/ubaid100/Banking-Management-System) |
+| 4 | 🔐 Login & Registration System | C++ | Security / File Handling | [GitHub](https://github.com/ubaid100/My-Small-Projects) |
+| 5 | 🎓 CGPA Calculator | C++ | Academic Tool | [GitHub](https://github.com/ubaid100/My-Small-Projects) |
+| 6 | 🎮 2D Game | C, Win32 API | Game Dev | [GitHub](https://github.com/ubaid100/Game-In-C-) |
+---
 ## Contribution Graph
 
 <div align="center">
