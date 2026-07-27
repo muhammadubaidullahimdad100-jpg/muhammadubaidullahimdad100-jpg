@@ -70,7 +70,7 @@ Philosophy  : "Never Give Up.👊"
 </div>
 
 ---
-## 🚀 Projects
+## Projects 🚀
 
 | # | Project | Tech Stack | Category | Link |
 |---|---------|------------|----------|------|
