@@ -71,40 +71,6 @@ Philosophy  : "Never Give Up.👊"
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhammadubaidullahimdad100-jpg&show_icons=true&theme=dracula&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="GitHub stats" 
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=muhammadubaidullahimdad100-jpg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
-    height="150" 
-    alt="GitHub streak stats" 
-  />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=muhammadubaidullahimdad100-jpg&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" 
-    height="150" 
-    alt="GitHub trophy graph" 
-  />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
